@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to right,#b6d094, #F6F5AE);
+    /* font-family: 'Handlee', cursive; */
+    font-family: 'Mali', cursive;
+    color: #564138;
+  }
+
+.container {
+    max-width: 60%;
+    margin: 5% auto;
+}
+.page {
+    /* width: 300px; */
+    /* height: 500px; */
+    padding: 15px;
+    background-color: #ebf5df ;
+    box-shadow: 10px 10px 5px grey;
+  }
+
+  .title {
+      font-size: 3em;
+      font-weight: bold;
+      text-align: center;
+      text-decoration-line: underline;
+  }
